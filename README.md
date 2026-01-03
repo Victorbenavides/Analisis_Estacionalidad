@@ -1,6 +1,6 @@
 # Analisis_Estacionalidad
 
-Carga de datos: Estás importando el archivo ClimaCDMX2021.csv usando la librería pandas. Este archivo contiene dos columnas principales: el mes (del 1 al 12) y la temperatura máxima registrada.
+Carga de datos: Importamos el archivo ClimaCDMX2021.csv usando la librería pandas. Este archivo contiene dos columnas principales: el mes (del 1 al 12) y la temperatura máxima registrada.
 
 Selección de variables: Con el comando iloc, separas los datos: la variable mes se asigna al eje horizontal (X) y climaxmax (la temperatura) al eje vertical (Y).
 
